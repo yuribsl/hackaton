@@ -3,7 +3,7 @@ package preco;
 public class FileA {
 
 	public static void main(String[] args) {
-		System.out.println("FileB");
+		System.out.println("Hackaton2018");
 
 	}
 
